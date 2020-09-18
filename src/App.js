@@ -1,8 +1,8 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import Home from './page/home';
 import Contact from './page/contactus';
-import {  Link,Route, Switch } from 'react-router-dom';
+import './css/styles.css'
+import {  Route, Switch } from 'react-router-dom';
 
 class App extends React.Component {
     render() {

@@ -23,7 +23,7 @@ const price = () => {
                         <h3 class="title">Basic Plan</h3>
                     </div>
                     <ul class="content-list">
-                    <img src="./assets/img/Support/AAT_adaptation.png" class="img-fluid" />
+                    <img src="./assets/img/Support/AAT_adaptation.png" class="img-fluid"  alt ="ceiti"  />
                     </ul>
                     <div class="pricingTable-signup">
                         <a href="/contactus">Contact Us</a>
@@ -37,7 +37,7 @@ const price = () => {
                         <h3 class="title">Enterprise Plan</h3>
                     </div>
                     <ul class="content-list">
-                    <img src="./assets/img/Support/AAT_expert_supervision.png" class="img-fluid" />
+                    <img src="./assets/img/Support/AAT_expert_supervision.png" class="img-fluid"  alt ="ceiti"  />
                     </ul>
                     <div class="pricingTable-signup">
                         <a href="/contactus">Contact Us</a>
@@ -52,7 +52,7 @@ const price = () => {
                         <h3 class="title">premium Plan</h3>
                     </div>
                     <ul class="content-list">
-                    <img src="./assets/img/Support/AAT_support_tickets.png" class="img-fluid" />
+                    <img src="./assets/img/Support/AAT_support_tickets.png" class="img-fluid"  alt ="ceiti"  />
                     </ul>
                     <div class="pricingTable-signup">
                         <a href="/contactus">Contact Us</a>

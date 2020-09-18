@@ -19,7 +19,7 @@ function App() {
                 <h1 class="text-uppercase cetilscollr font-weight-bold">Contact Us </h1>
                 <hr class="divider my-4" />
               </div>
-              
+
             </div>
           </div>
         </header>
@@ -95,7 +95,7 @@ function App() {
                   </form>
 
                   <div class="text-center text-md-left">
-                    <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+                    <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();" href="/">Send</a>
                   </div>
                   <div class="status"></div>
                 </div>
@@ -135,8 +135,8 @@ function App() {
 
               <div class="col-md-3">
                 <div class="contact-box center-version">
-                  <a href="#profile.html">
-                    <img alt="image" class="img-circle" src="https://bootdey.com/img/Content/avatar/avatar1.png" />
+                  <a href="/">
+                    <img alt="ceitasl" class="img-circle" src="https://bootdey.com/img/Content/avatar/avatar1.png" />
                     <h3 class="m-b-xs"><strong>Jordi Bellver</strong></h3>
 
                     <div class="font-bold">IT Director,
@@ -144,16 +144,16 @@ function App() {
 </div>
                     <address class="m-t-md">
                       <strong>Twitter, Inc.</strong><br />
-                   
+
                       <abbr title="Phone">P:</abbr> +44 7422 571768
                     </address>
 
                   </a>
                   <div class="contact-box-footer">
                     <div class="m-t-xs btn-group">
-                      <a class="btn btn-xs btn-white"><i class="fa fa-phone"></i> Call </a>
-                      <a class="btn btn-xs btn-white"><i class="fa fa-envelope"></i> Email</a>
-                      <a class="btn btn-xs btn-white"><i class="fa fa-user-plus"></i> Follow</a>
+                      <a class="btn btn-xs btn-white" href="/"><i class="fa fa-phone" ></i> Call </a>
+                      <a class="btn btn-xs btn-white" href="/"><i class="fa fa-envelope" ></i> Email</a>
+                      <a class="btn btn-xs btn-white" href="/"><i class="fa fa-user-plus" ></i> Follow</a>
                     </div>
                   </div>
 
@@ -165,7 +165,7 @@ function App() {
               <div class="col-md-3">
                 <div class="contact-box center-version">
                   <a href="#profile.html">
-                    <img alt="image" class="img-circle" src="https://bootdey.com/img/Content/avatar/avatar1.png" />
+                    <img alt="ceitasl" class="img-circle" src="https://bootdey.com/img/Content/avatar/avatar1.png" />
                     <h3 class="m-b-xs"><strong>Andrés Peñafiel</strong></h3>
 
                     <div class="font-bold">Sales Dept.
@@ -174,16 +174,16 @@ function App() {
 </div>
                     <address class="m-t-md">
                       <strong>Twitter, Inc.</strong><br />
-                     
+
                       <abbr title="Phone">P:</abbr> +34 684 13 36 19
                     </address>
 
                   </a>
                   <div class="contact-box-footer">
                     <div class="m-t-xs btn-group">
-                      <a class="btn btn-xs btn-white"><i class="fa fa-phone"></i> Call </a>
-                      <a class="btn btn-xs btn-white"><i class="fa fa-envelope"></i> Email</a>
-                      <a class="btn btn-xs btn-white"><i class="fa fa-user-plus"></i> Follow</a>
+                      <a class="btn btn-xs btn-white" href="/"><i class="fa fa-phone" ></i> Call </a>
+                      <a class="btn btn-xs btn-white" href="/"><i class="fa fa-envelope"  ></i> Email</a>
+                      <a class="btn btn-xs btn-white" href="/"><i class="fa fa-user-plus" ></i> Follow</a>
                     </div>
                   </div>
 
@@ -196,7 +196,7 @@ function App() {
               <div class="col-md-3">
                 <div class="contact-box center-version">
                   <a href="#profile.html">
-                    <img alt="image" class="img-circle" src="https://bootdey.com/img/Content/avatar/avatar1.png" />
+                    <img alt="ceitasl" class="img-circle" src="https://bootdey.com/img/Content/avatar/avatar1.png" />
                     <h3 class="m-b-xs"><strong>Álvaro Gago</strong></h3>
 
                     <div class="font-bold">IT Dept.
@@ -205,16 +205,16 @@ function App() {
 </div>
                     <address class="m-t-md">
                       <strong>Twitter, Inc.</strong><br />
-                    
+
                       <abbr title="Phone">P:</abbr> +34 711 762 049
                     </address>
 
                   </a>
                   <div class="contact-box-footer">
                     <div class="m-t-xs btn-group">
-                      <a class="btn btn-xs btn-white"><i class="fa fa-phone"></i> Call </a>
-                      <a class="btn btn-xs btn-white"><i class="fa fa-envelope"></i> Email</a>
-                      <a class="btn btn-xs btn-white"><i class="fa fa-user-plus"></i> Follow</a>
+                      <a class="btn btn-xs btn-white" href="/"><i class="fa fa-phone"  ></i> Call </a>
+                      <a class="btn btn-xs btn-white" href="/"><i class="fa fa-envelope"  ></i> Email</a>
+                      <a class="btn btn-xs btn-white" href="/"><i class="fa fa-user-plus" ></i> Follow</a>
                     </div>
                   </div>
 
