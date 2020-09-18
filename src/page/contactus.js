@@ -2,6 +2,7 @@ import React from 'react';
 import '../css/styles.css'
 import Header from '../component/header/header.js'
 import Footer from '../component/footer/footer.js'
+import Businesshours from '../component/businessHours/businesshours.js'
 
 
 function App() {
@@ -124,8 +125,11 @@ function App() {
               <div class="divider"></div>
             </div>
           </div>
+          
 
         </section>
+
+        <Businesshours />
 
         <section class="page-section" >
 
