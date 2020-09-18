@@ -19,7 +19,7 @@ const header = () => {
                             <li class="nav-item"><Link class="nav-link js-scroll-trigger" to="/">Home</Link>
                             </li>
 
-                            <li class="nav-item"><Link class="nav-link js-scroll-trigger" to="/services">Services</Link></li>
+                            <li class="nav-item"><Link class="nav-link js-scroll-trigger" to="/service">Services</Link></li>
                             <li class="nav-item"><Link class="nav-link js-scroll-trigger" to="/contactus">Contact us</Link></li>
                         </ul>
                     </div>
